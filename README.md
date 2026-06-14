@@ -27,7 +27,7 @@ Aplikasi ini menggunakan arsitektur **Client-Server** yang memisahkan antara Bac
 
 Sebelum menjalankan aplikasi, pastikan perangkat Anda telah memenuhi spesifikasi berikut:
 
-* **Java Development Kit (JDK):** Versi 17 atau versi terbaru.
+* **Java Development Kit (JDK):** Versi 21 atau versi terbaru.
 * **Build Tool:** Apache Maven (sudah terintegrasi di IntelliJ IDEA).
 * **Database:** H2 Database Engine (In-Memory / Embedded mode).
 * **Framework Backend:** Spring Boot 3.x (Spring Web, Spring Data JPA).
