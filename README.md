@@ -17,7 +17,7 @@ Aplikasi ini menggunakan arsitektur **Client-Server** yang memisahkan antara Bac
    - Korektor jawaban otomatis langsung di sisi client dengan pop-up notifikasi hasil ujian (Benar/Salah).
    - Navigasi soal terintegrasi (*Next* dan *Previous*) untuk mempermudah pengerjaan kuis.
 
-3. **📊 Tracker Progres Belajar**
+3. ** Tracker Progres Belajar**
    - Form input interaktif untuk mencatat nama mahasiswa, mata kuliah, dan persentase capaian belajar.
    - Fitur penyimpanan langsung (*POST request*) dari aplikasi desktop menuju database pusat server.
 
