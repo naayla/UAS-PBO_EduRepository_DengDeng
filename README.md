@@ -60,5 +60,3 @@ Ikuti urutan langkah di bawah ini secara runtut agar sistem tersinkronisasi deng
 Penjelasan lengkap mengenai arsitektur sistem, demonstrasi jalannya fitur kuis live H2, form progres belajar, serta pengujian kode dapat dilihat melalui tautan YouTube berikut:
 
 🎥 **[Tonton Video Presentasi Proyek EduRepository di YouTube](https://www.youtube.com/watch?v=xP-_seTpT0s?si=eUJnPBxUSETA2rVz)**
-
-(Catatan: Silakan ganti link di atas dengan URL video kelompokmu yang sudah diunggah ke YouTube)
