@@ -9,7 +9,7 @@ public class Kuis {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
-    private String mataKuliah;
+    private String MataKuliah;
     private String pertanyaan;
     @JsonProperty("opsiA")
     private String opsiA;
